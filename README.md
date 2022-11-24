@@ -2,7 +2,7 @@
 Desafio de fazer uma tela de login do instagram
 >Utilizado as seguintes linguagens:
 ~~~html
-HTMLahshshs
+HTML
 ~~~
 ~~~css
 CSS
